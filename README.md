@@ -27,5 +27,5 @@ To get started with the Currency Converter app, follow these steps:
 
 ### 1. Clone the repository
 ```bash
-git clone https://huggingface.co/spaces/your-username/CurrencyConverter
+git clone https://huggingface.co/spaces/Ayesha003/CurrencyConverter
 
